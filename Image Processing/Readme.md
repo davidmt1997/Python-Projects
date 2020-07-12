@@ -4,3 +4,5 @@ Simple image processing techniques using the skimage library and my own implemen
 - Adding noise to an image
 - Filter out the noise
 - Edge and border detection
+- Feature extraction
+- Real applications
